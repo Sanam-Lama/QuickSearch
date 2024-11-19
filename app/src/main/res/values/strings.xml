@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">QuickSearch</string>
+    <string name="text_no_data_found">No Data found.</string>
+    <string name="text_search_something">Search something</string>
+    <string name="text_something_went_wrong">Something went wrong.</string>
+    <string name="text_search">Search</string>
+    <string name="text_detail_page">Detail Page</string>
+    <string name="text_back">Back</string>
+</resources>
